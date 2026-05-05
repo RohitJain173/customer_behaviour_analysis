@@ -27,7 +27,7 @@ E-commerce companies often struggle with:
 - How does customer behavior vary across segments and seasons?
 
 
-## 🛠 Skills
+## 🛠 Tech Skills
 
 - Python → Data Cleaning & EDA (Pandas, NumPy)
 
@@ -89,6 +89,12 @@ Download the dataset [Link](https://github.com/RohitJain173/customer_behaviour_a
 ## Conclusion
 
 This project demonstrates how customer transaction data can be effectively transformed into actionable business insights through a combination of data cleaning, analysis and visualization techniques. By analyzing purchasing patterns, customer segments, discount impact and seasonal trends, the study provides a clear understanding of the key factors influencing revenue and customer retention in an e-commerce environment. The findings highlight the importance of identifying high-value and loyal customers, optimizing discount strategies and leveraging data-driven decision-making to improve marketing effectiveness. Overall, the project showcases how tools like Python, SQL and Power BI can be integrated to solve real-world business problems and support strategic growth initiatives.
+
+## 🚀 Future Improvements
+
+- Build customer churn prediction model  
+- Implement recommendation system  
+- Automate dashboard with real-time data  
 
 
 ## 🔗 Links
