@@ -1,6 +1,6 @@
 # Customer Behaviour Analysis
 
-Analyzed e-commerce customer transaction data to identify purchasing patterns, customer segments and revenue drivers using Python, SQL and Power BI. Performed data cleaning and preprocessing, including handling missing values, category inconsistencies and duplicates to ensure high-quality, analysis-ready data. Derived business insights such as high-revenue product categories, discount effectiveness, customer segmentation and seasonal demand trends to support data-driven decision-making.
+This project analyzes e-commerce customer transaction data to uncover purchasing patterns, customer segments and key revenue drivers using Python, SQL and Power BI. The goal is to enable data-driven decision-making to improve customer retention, marketing effectiveness and overall business performance.
 
 ## Business Problem
 
@@ -11,7 +11,7 @@ Analyzed e-commerce customer transaction data to identify purchasing patterns, c
 
 ## Key Objective:
 
-- To analyze customer behavior and answer critical business questions such as:
+ To analyze customer behavior and answer critical business questions such as:
 - Who are the high-value customers?
 - Do discounts actually increase sales?
 - Which products and categories generate the most revenue?
@@ -25,6 +25,8 @@ Analyzed e-commerce customer transaction data to identify purchasing patterns, c
 - Power BI → Dashboard & Data Visualization
 
 ## Dataset
+
+This dataset contains customer-level and transaction-level information from a retail e-commerce platform.
 
 Download the dataset [Link](https://github.com/RohitJain173/customer_behaviour_analysis/blob/main/customer_shopping_behavior.csv)
 
