@@ -5,9 +5,13 @@ Analyzed e-commerce customer transaction data to identify purchasing patterns, c
 ## Business Problem
 
 E-commerce companies often struggle with:
+
 Low customer retention
+
 Ineffective discount strategies
+
 Lack of clarity on high-performing products
+
 Poor understanding of customer segments
 
 Key Objective:
