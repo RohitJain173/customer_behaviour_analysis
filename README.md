@@ -4,35 +4,24 @@ Analyzed e-commerce customer transaction data to identify purchasing patterns, c
 
 ## Business Problem
 
-E-commerce companies often struggle with:
-
 - Low customer retention
-
 - Ineffective discount strategies
-
 - Lack of clarity on high-performing products
-
 - Poor understanding of customer segments
 
 ## Key Objective:
 
 - To analyze customer behavior and answer critical business questions such as:
-
 - Who are the high-value customers?
-
 - Do discounts actually increase sales?
-
 - Which products and categories generate the most revenue?
-
 - How does customer behavior vary across segments and seasons?
 
 
 ## 🛠 Tech Skills
 
 - Python → Data Cleaning & EDA (Pandas, NumPy)
-
 - SQL → Data Analysis & Querying
-
 - Power BI → Dashboard & Data Visualization
 
 ## Dataset
@@ -42,13 +31,9 @@ Download the dataset [Link](https://github.com/RohitJain173/customer_behaviour_a
 ## Key Features
 
 - Demographics → Age, Gender
-
 - Transaction → Purchase Amount, Item, Category
-
 - Behavior → Previous Purchases, Frequency
-
 - Business Factors → Discount Applied, Payment Method, Season
-
 - Feedback → Review Rating
 
 ## 📂 Project Files
@@ -66,16 +51,12 @@ Download the dataset [Link](https://github.com/RohitJain173/customer_behaviour_a
 
 
 ## Key Insights
+
 - 📈 Electronics & Clothing categories contributed the highest revenue.
-
 - 💸 Customers using discounts showed higher average purchase value.
-
 - 👥 Loyal customers (repeat buyers) generated the majority of total revenue.
-
 - 📊 Subscribed users spent more compared to non-subscribed users.
-
 - 💳 Digital payments were the most preferred payment method.
-
 - 🌦️ Seasonal trends significantly impacted product demand.
 
 
