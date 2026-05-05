@@ -1,5 +1,7 @@
 # Customer Behaviour Analysis
 
+## Project Description
+
 This project analyzes e-commerce customer transaction data to uncover purchasing patterns, customer segments and key revenue drivers using Python, SQL and Power BI. The goal is to enable data-driven decision-making to improve customer retention, marketing effectiveness and overall business performance.
 
 ## Business Problem
