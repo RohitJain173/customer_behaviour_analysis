@@ -51,6 +51,12 @@ Business Factors → Discount Applied, Payment Method, Season
 
 Feedback → Review Rating
 
+## 📂 Project Files
+
+- 📓 Jupyter Notebook: [View Notebook](notebooks/customer_analysis.ipynb)
+- 🗄 SQL Queries: [View SQL](https://github.com/RohitJain173/customer_behaviour_analysis/blob/main/customer_behaviour_analysis.sql)
+- 📊 Power BI Dashboard: [Download PBIX](powerbi/customer_dashboard.pbix)
+
 
 ## Documentation
 
