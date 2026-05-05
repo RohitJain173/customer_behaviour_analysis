@@ -6,84 +6,84 @@ Analyzed e-commerce customer transaction data to identify purchasing patterns, c
 
 E-commerce companies often struggle with:
 
-Low customer retention
+- Low customer retention
 
-Ineffective discount strategies
+- Ineffective discount strategies
 
-Lack of clarity on high-performing products
+- Lack of clarity on high-performing products
 
-Poor understanding of customer segments
+- Poor understanding of customer segments
 
 ## Key Objective:
 
-To analyze customer behavior and answer critical business questions such as:
+- To analyze customer behavior and answer critical business questions such as:
 
-Who are the high-value customers?
+- Who are the high-value customers?
 
-Do discounts actually increase sales?
+- Do discounts actually increase sales?
 
-Which products and categories generate the most revenue?
+- Which products and categories generate the most revenue?
 
-How does customer behavior vary across segments and seasons?
+- How does customer behavior vary across segments and seasons?
 
 
 ## 🛠 Skills
 
-Python → Data Cleaning & EDA (Pandas, NumPy)
+- Python → Data Cleaning & EDA (Pandas, NumPy)
 
-SQL Server → Data Analysis & Querying
+- SQL → Data Analysis & Querying
 
-Power BI → Dashboard & Data Visualization
+- Power BI → Dashboard & Data Visualization
 
 ## Dataset
 
 Download the dataset [Link](https://github.com/RohitJain173/customer_behaviour_analysis/blob/main/customer_shopping_behavior.csv)
 
-Key Features:
+## Key Features
 
-Demographics → Age, Gender
+- Demographics → Age, Gender
 
-Transaction → Purchase Amount, Item, Category
+- Transaction → Purchase Amount, Item, Category
 
-Behavior → Previous Purchases, Frequency
+- Behavior → Previous Purchases, Frequency
 
-Business Factors → Discount Applied, Payment Method, Season
+- Business Factors → Discount Applied, Payment Method, Season
 
-Feedback → Review Rating
+- Feedback → Review Rating
 
 ## 📂 Project Files
 
-- 📓 Jupyter Notebook: [View Notebook](notebooks/customer_analysis.ipynb)
+- 📓 Jupyter Notebook: [View Notebook](https://github.com/RohitJain173/customer_behaviour_analysis/blob/main/customer_shopping_behavior.ipynb)
 - 🗄 SQL Queries: [View SQL](https://github.com/RohitJain173/customer_behaviour_analysis/blob/main/customer_behaviour_analysis.sql)
-- 📊 Power BI Dashboard: [Download PBIX](powerbi/customer_dashboard.pbix)
+- 📊 Power BI Dashboard: [Download PBIX](https://github.com/RohitJain173/customer_behaviour_analysis/blob/main/customer_behaviour.pbix)
 
 
 ## Documentation
 
-[Report](https://github.com/RohitJain173/customer_behaviour_analysis/blob/main/Report-Customer%20Behaviour%20Analysis.pdf)
+💠[Report](https://github.com/RohitJain173/customer_behaviour_analysis/blob/main/Report-Customer%20Behaviour%20Analysis.pdf)
 
-[Presentation](https://github.com/RohitJain173/customer_behaviour_analysis/blob/main/Customer-Behaviour-Analysis.pdf)
+💠[Presentation](https://github.com/RohitJain173/customer_behaviour_analysis/blob/main/Customer-Behaviour-Analysis.pdf)
 
 
 ## Key Insights
-📈 Electronics & Clothing categories contributed the highest revenue.
+- 📈 Electronics & Clothing categories contributed the highest revenue.
 
-💸 Customers using discounts showed higher average purchase value.
+- 💸 Customers using discounts showed higher average purchase value.
 
-👥 Loyal customers (repeat buyers) generated the majority of total revenue.
+- 👥 Loyal customers (repeat buyers) generated the majority of total revenue.
 
-📊 Subscribed users spent more compared to non-subscribed users.
+- 📊 Subscribed users spent more compared to non-subscribed users.
 
-💳 Digital payments were the most preferred payment method.
+- 💳 Digital payments were the most preferred payment method.
 
-🌦️ Seasonal trends significantly impacted product demand.
+- 🌦️ Seasonal trends significantly impacted product demand.
 
 
 ## Screenshots
 
-![Dashboard Screenshot](https://github.com/RohitJain173/customer_behaviour_analysis/blob/main/customer_behaviour_analysis1.png)
+- ![Dashboard Screenshot](https://github.com/RohitJain173/customer_behaviour_analysis/blob/main/customer_behaviour_analysis1.png)
 
-![Dashboard Screenshot](https://github.com/RohitJain173/customer_behaviour_analysis/blob/main/customer_behaviour_analysis2.png)
+- ![Dashboard Screenshot](https://github.com/RohitJain173/customer_behaviour_analysis/blob/main/customer_behaviour_analysis2.png)
 
 
 ## Conclusion
