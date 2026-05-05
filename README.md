@@ -1,17 +1,17 @@
 # Customer Behaviour Analysis
 
-## Project Description
+## 📌Project Description
 
 This project analyzes e-commerce customer transaction data to uncover purchasing patterns, customer segments and key revenue drivers using Python, SQL and Power BI. The goal is to enable data-driven decision-making to improve customer retention, marketing effectiveness and overall business performance.
 
-## Business Problem
+## ❗Business Problem
 
 - Low customer retention
 - Ineffective discount strategies
 - Lack of clarity on high-performing products
 - Poor understanding of customer segments
 
-## Key Objective:
+## 🎯Key Objective
 
  To analyze customer behavior and answer critical business questions such as:
 - Who are the high-value customers?
@@ -26,13 +26,13 @@ This project analyzes e-commerce customer transaction data to uncover purchasing
 - SQL → Data Analysis & Querying
 - Power BI → Dashboard & Data Visualization
 
-## Dataset
+## 📊Dataset
 
 This dataset contains customer-level and transaction-level information from a retail e-commerce platform.
 
 Download the dataset [Link](https://github.com/RohitJain173/customer_behaviour_analysis/blob/main/customer_shopping_behavior.csv)
 
-## Key Features
+## 🚀Key Features
 
 - Demographics → Age, Gender
 - Transaction → Purchase Amount, Item, Category
@@ -47,14 +47,14 @@ Download the dataset [Link](https://github.com/RohitJain173/customer_behaviour_a
 - 📊 Power BI Dashboard: [Download PBIX](https://github.com/RohitJain173/customer_behaviour_analysis/blob/main/customer_behaviour.pbix)
 
 
-## Documentation
+## 📄Documentation
 
 💠[Report](https://github.com/RohitJain173/customer_behaviour_analysis/blob/main/Report-Customer%20Behaviour%20Analysis.pdf)
 
 💠[Presentation](https://github.com/RohitJain173/customer_behaviour_analysis/blob/main/Customer-Behaviour-Analysis.pdf)
 
 
-## Key Insights
+## 📊Key Insights
 
 - 📈 Electronics & Clothing categories contributed the highest revenue.
 - 💸 Customers using discounts showed higher average purchase value.
@@ -64,18 +64,18 @@ Download the dataset [Link](https://github.com/RohitJain173/customer_behaviour_a
 - 🌦️ Seasonal trends significantly impacted product demand.
 
 
-## Screenshots
+## 🖼️Screenshots
 
 ![Dashboard Screenshot](https://github.com/RohitJain173/customer_behaviour_analysis/blob/main/customer_behaviour_analysis1.png)
 
 ![Dashboard Screenshot](https://github.com/RohitJain173/customer_behaviour_analysis/blob/main/customer_behaviour_analysis2.png)
 
 
-## Conclusion
+## 📌Conclusion
 
 This project demonstrates how customer transaction data can be effectively transformed into actionable business insights through a combination of data cleaning, analysis and visualization techniques. By analyzing purchasing patterns, customer segments, discount impact and seasonal trends, the study provides a clear understanding of the key factors influencing revenue and customer retention in an e-commerce environment. The findings highlight the importance of identifying high-value and loyal customers, optimizing discount strategies and leveraging data-driven decision-making to improve marketing effectiveness. Overall, the project showcases how tools like Python, SQL and Power BI can be integrated to solve real-world business problems and support strategic growth initiatives.
 
-## 🚀 Future Improvements
+## 🚀Future Improvements
 
 - Build customer churn prediction model  
 - Implement recommendation system  
