@@ -81,9 +81,9 @@ Download the dataset [Link](https://github.com/RohitJain173/customer_behaviour_a
 
 ## Screenshots
 
-- ![Dashboard Screenshot](https://github.com/RohitJain173/customer_behaviour_analysis/blob/main/customer_behaviour_analysis1.png)
+![Dashboard Screenshot](https://github.com/RohitJain173/customer_behaviour_analysis/blob/main/customer_behaviour_analysis1.png)
 
-- ![Dashboard Screenshot](https://github.com/RohitJain173/customer_behaviour_analysis/blob/main/customer_behaviour_analysis2.png)
+![Dashboard Screenshot](https://github.com/RohitJain173/customer_behaviour_analysis/blob/main/customer_behaviour_analysis2.png)
 
 
 ## Conclusion
